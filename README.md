@@ -8,4 +8,5 @@
 
 ### Files of Project:
 <b>-Up-Work Web Scrapping.ipynb</b>: The main python code to scrape data.<br>
-<b>-output.csv</b>: The csv file that contain the output of the dataframe.
+<b>-output.csv</b>: The csv file that contain the output of the dataframe.<br>
+<b>-chromedriver.exe</b>: Chrome web driver to run the python script. 
